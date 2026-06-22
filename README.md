@@ -358,6 +358,9 @@ HeriTeq aims to become a platform where:
 
 ---
 
+<img width="711" height="719" alt="image" src="https://github.com/user-attachments/assets/0fa9e312-805e-4949-b8e2-6eec455dd554" />
+
+
 # Tagline
 
 > **Preserving Memories, Nurturing Minds.**
