@@ -1,370 +1,256 @@
-# PMW_Web2_AI-Based-3D-Scene-Reconstruction-
-# HeriTeq
+HeriTeq
 
-> **Preserving Memories, Nurturing Minds.**
+Preserving Memories, Nurturing Minds.
 
-HeriTeq is an AI-powered memory companion that combines emotional well-being with cultural and personal heritage preservation. It helps individuals and families preserve stories, traditions, and experiences while fostering healing, reflection, and meaningful connections across generations.
+About
 
----
+HeriTeq is an AI-powered memory companion that combines emotional well-being with cultural and personal heritage preservation. It helps individuals and families preserve stories, traditions, and experiences while fostering meaningful connections across generations.
 
-# Why?
+Vision
 
-In an increasingly digital world, memories, traditions, and stories are often lost with time. While many modern mental health tools provide support, they frequently overlook one of humanity's greatest sources of healing: connection to family, culture, and shared experiences.
+To create a future where memories, traditions, and stories are preserved digitally and remain accessible for generations to come.
 
-HeriTeq exists to bridge that gap.
+Mission Statement
 
-By combining artificial intelligence with memory preservation, HeriTeq creates a space where people can reflect, heal, and ensure that the voices and experiences of today continue to inspire future generations.
+Preserving Memories, Nurturing Minds.
 
----
+Our mission is to leverage artificial intelligence and digital technologies to preserve personal and cultural memories while encouraging emotional well-being and strengthening connections across generations.
 
-# Mission Statement
+Why HeriTeq Exists
 
-## Preserving Memories, Nurturing Minds.
+In an increasingly digital world, memories, traditions, and stories are often lost over time. HeriTeq exists to ensure that these experiences are preserved and shared while providing a space for reflection and emotional support.
 
-Our mission is to leverage artificial intelligence and digital technologies to preserve personal and cultural memories while providing compassionate emotional support and strengthening connections across generations.
+We believe that memories are more than records of the past—they are foundations for identity, healing, and belonging.
 
----
+Selected Theme Directions
+Primary Theme: Future Heritage Studio
 
-# What Does HeriTeq Do?
+This theme focuses on AI, digital tools, and modern technology to preserve cultural heritage.
 
-HeriTeq enables users to:
+Why?
 
-* Preserve family stories and traditions.
-* Store photos, voice notes, and memories.
-* Record experiences from older generations.
-* Reflect on personal journeys.
-* Receive compassionate AI-powered emotional support.
-* Build a lasting digital legacy.
-* Strengthen intergenerational and cultural connections.
+HeriTeq uses artificial intelligence to organize memories and preserve stories in a meaningful way.
 
----
+Secondary Theme: Youth Culture Archive
 
-# How Does HeriTeq Work?
+This theme focuses on storytelling, memories, and human experiences.
 
-HeriTeq combines Natural Language Processing (NLP), Machine Learning, Retrieval-Augmented Generation (RAG), and Large Language Models to deliver personalized and meaningful interactions.
+Why?
 
-## AI Companion
+HeriTeq aims to preserve not only information but also the people and emotions behind those memories.
 
-Provides empathetic conversations and emotional support through natural interactions powered by OpenAI language models.
+Why These Themes?
 
----
+Combining these themes allows HeriTeq to balance technology with humanity. It reflects both innovation and cultural preservation, making the project strongly aligned with the mission of PreserveMy.World.
 
-## Natural Language Processing (NLP)
+Team Identity
+Team Name
 
-HeriTeq analyzes:
+HeriTeq
 
-* Intent
-* Context
-* Sentiment
-* Emotional cues
-* Conversation history
+(Heritage + Technology)
 
-This allows the system to understand user needs and generate thoughtful responses.
+Tagline
 
----
+Preserving Memories, Nurturing Minds.
 
-## Emotion Detection and Sentiment Analysis
+Logo Direction
 
-Machine learning models identify emotional states such as:
+Infinity Loop with Hidden H.
 
-* Happiness
-* Sadness
-* Anxiety
-* Stress
-* Fear
-* Anger
+Meaning
 
-Training data may include:
+The infinity loop represents:
 
-* Emotion-labelled datasets
-* Mental health conversation datasets
-* Sentiment datasets
-* User feedback
+Continuity
+Memory
+Human connection
+Growth
+Preservation
 
-Possible models include:
+The design symbolizes that stories and memories can live on beyond generations.
 
-* Logistic Regression
-* Random Forest
-* Support Vector Machines
-* BERT
-* RoBERTa
-* Transformer-based Language Models
+Target Audience
+Ideal Customer Profile 1
+Young Professionals
 
----
+Age: 22–35
 
-## Memory Vault
+Cities:
 
-Stores and organizes:
+Lahore
+Karachi
+Islamabad
+Motivations
+Preserve family memories.
+Organize photos and voice recordings.
+Stay connected with their roots.
+Pain Points
+Fear of losing stories from older generations.
+Memories scattered across different devices.
+Online Behavior
+LinkedIn
+Instagram
+YouTube
+Ideal Customer Profile 2
+University Students
 
-* Photos
-* Voice recordings
-* Personal stories
-* Traditions
-* Journals
-* Significant life events
+Age: 18–25
 
-Creating a searchable digital archive for future generations.
+Motivations
+Explore AI technologies.
+Learn about cultural heritage.
+Document family traditions.
+Platforms
+Instagram
+LinkedIn
+GitHub
+Ideal Customer Profile 3
+Heritage Enthusiasts
 
----
+Age: 30–55
 
-## Retrieval-Augmented Generation (RAG)
+Motivations
+Preserve oral histories.
+Record traditions.
+Promote cultural awareness.
+Age Demographic
+Primary Audience
 
-Before generating a response, HeriTeq retrieves relevant memories and information from its database.
+18–35 years
 
-This enables personalized conversations based on:
+Secondary Audience
 
-* Family stories
-* Previous interactions
-* Traditions
-* Recorded memories
+35–55 years
 
----
+Positioning
 
-## Cultural Knowledge Layer
+HeriTeq is positioned as an AI-powered memory companion that helps preserve stories, traditions, and experiences while fostering emotional well-being and meaningful connections across generations.
 
-HeriTeq incorporates:
-
-* Folklore
-* Proverbs
-* Traditions
-* Historical context
-* Community wisdom
-
-This provides culturally meaningful interactions instead of generic responses.
-
----
-
-## OpenAI Integration
-
-OpenAI powers:
-
-### Conversational Intelligence
-
-Natural and empathetic dialogue.
-
-### Story Generation
-
-Transforming raw memories into engaging narratives.
-
-### Summarization
-
-Converting interviews and recordings into readable stories.
-
-### Embeddings
-
-Semantic search and memory retrieval.
-
-### Speech-to-Text
-
-Transcribing voice recordings.
-
-### Text-to-Speech
-
-Reading memories aloud and preserving voices.
-
----
-
-## Emotional Support Engine
-
-Inspired by:
-
-* Cognitive Behavioral Therapy (CBT)
-* Positive Psychology
-* Active Listening
-* Reflection Techniques
-
-HeriTeq is designed to encourage self-reflection and emotional well-being.
-
-> HeriTeq is intended to complement human connection and professional support, not replace mental health professionals.
-
----
-
-# Core Principles
-
-## Compassion
+Core Principles
+Compassion
 
 People always come first.
 
-## Preservation
+Preservation
 
 Every story deserves to be remembered.
 
-## Privacy
+Privacy
 
 Users maintain ownership and control over their memories and information.
 
-## Cultural Respect
+Cultural Respect
 
 Every culture, tradition, and voice matters.
 
-## Accessibility
+Accessibility
 
-Emotional support and memory preservation should be available to everyone.
+Memory preservation should be available to everyone.
 
-## Authenticity
+Authenticity
 
-Artificial intelligence should strengthen human connections, not replace them.
+Technology should strengthen human connections, not replace them.
 
----
-
-# Brand Voice
+Brand Voice
 
 HeriTeq communicates with a voice that is:
 
-## Warm
-
-"We're here to listen."
-
-## Respectful
-
-"Your experiences matter."
-
-## Reassuring
-
-"Healing is a journey."
-
-## Human
-
-Simple, thoughtful, and accessible language.
-
-## Professional
-
-Trustworthy without sounding clinical or overly technical.
-
----
-
-# Design System
-
-## Color Palette
-
-### Primary Teal
-
-```css
+Warm
+Professional
+Respectful
+Human
+Educational
+Tone
+Calm
+Hopeful
+Minimal
+Intelligent
+Color Palette
+Primary Teal
 #146C94
-```
 
-Represents trust, calmness, and clarity.
+Represents trust and clarity.
 
-### Emerald Green
-
-```css
+Emerald Green
 #2D6A4F
-```
 
-Represents growth, healing, and preservation.
+Represents growth and preservation.
 
-### Ivory White
-
-```css
+Ivory White
 #F8FAFC
-```
 
-Provides openness and readability.
+Represents openness and simplicity.
 
-### Slate
-
-```css
+Slate
 #1E293B
-```
 
-Used for primary text and structure.
+Used for structure and primary text.
 
-### Muted Gray
-
-```css
+Muted Gray
 #64748B
-```
 
-Used for secondary content and supporting information.
+Used for supporting content.
 
----
-
-# Typography
-
-## Headings
-
-```css
+Typography
+Headings
 font-family: "Space Grotesk", sans-serif;
-```
-
-Modern, elegant, and technology-oriented.
-
-## Body Text
-
-```css
+Body
 font-family: "Inter", sans-serif;
-```
-
-Clean, highly readable, and professional.
-
-## Accent Font
-
-```css
+Accent
 font-family: "Playfair Display", serif;
-```
 
-Used for storytelling elements, quotes, and memories.
+Used for quotes and storytelling.
 
----
+Features
+AI-powered conversations.
+Memory preservation.
+Story organization.
+Photo and voice-note storage.
+Reflection and journaling.
+Cultural storytelling.
+Digital legacy creation.
+How HeriTeq Works
 
-# System Architecture
+Users interact with HeriTeq through natural conversations.
 
-```text
-User
- │
- ▼
-Frontend (Web / Mobile)
- │
- ▼
-Backend Server
- │
- ├── Memory Database
- │
- ├── Vector Database
- │
- ├── Retrieval System (RAG)
- │
- └── OpenAI Models
-          │
-          ▼
-Emotion Analysis + Story Generation
-          │
-          ▼
-Personalized Response
-          │
-          ▼
-User
-```
+The platform helps organize memories, stories, and traditions while providing thoughtful and supportive responses. Through AI-powered interactions, users can preserve important experiences and build a lasting digital legacy for future generations.
 
----
+Public Presence
 
-# Guiding Philosophy
+A responsive website will serve as HeriTeq's public presence.
 
-HeriTeq believes that memories are more than records of the past—they are foundations for identity, healing, and belonging.
+LinkedIn Bio
 
-Artificial intelligence should not merely answer questions. It should help people preserve what matters most and strengthen the human connections that define us.
+AI-powered memory companion preserving stories, traditions, and experiences for future generations.
 
----
+Preserving Memories, Nurturing Minds.
 
-# Future Vision
+First Launch Post
 
-HeriTeq aims to become a platform where:
+Excited to introduce HeriTeq.
 
-* Families preserve stories across generations.
-* Communities safeguard traditions and heritage.
-* Individuals reflect and heal through meaningful memories.
-* AI serves as a bridge between the past and the future.
-* Voices and experiences continue to inspire generations to come.
+An AI-powered memory companion designed to preserve stories, traditions, and experiences while fostering meaningful connections across generations.
 
----
+Because every story deserves to live on.
 
-<img width="711" height="719" alt="image" src="https://github.com/user-attachments/assets/0fa9e312-805e-4949-b8e2-6eec455dd554" />
+#HeriTeq #AI #DigitalHeritage #PreserveMyWorld #Innovation
 
+Brand Critique
+Category	Score
+Clarity	9/10
+Credibility	8.5/10
+Distinctiveness	9/10
+Mission Fit	9.5/10
+Execution	8.5/10
+Improvements
+Introduce multilingual support.
+Include oral history archives.
+Add collaborative family storytelling.
+Why HeriTeq Fits PreserveMy.World
 
-# Tagline
+HeriTeq aligns closely with PreserveMy.World's mission by combining artificial intelligence with storytelling and memory preservation. It focuses on protecting experiences, traditions, and voices so that they can continue to inspire future generations.
 
-> **Preserving Memories, Nurturing Minds.**
+Future Vision
 
----
-
-### Because every story deserves to live on.
+HeriTeq aims to become a platform where families and communities can preserve memories, celebrate traditions, and strengthen connections across generations through technology.
